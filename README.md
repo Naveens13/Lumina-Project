@@ -1,6 +1,6 @@
 ## Lumina Website
 
-    This is a basic website in which i have experimented my HTML, css an javascript skill.
+This is a basic website in which i have experimented my HTML, css an javascript skill.
 
 ## Sections
 
